@@ -4,7 +4,7 @@
 <!-- Animated typing SVG -->
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8F%A5+Building+Healthcare+Portals+%26+RAG+Pipelines;%F0%9F%9B%A0%EF%B8%8F+Shipping+Open-Source+Developer+Tools;%F0%9F%8E%93+MS+in+CS+%C2%B7+Indiana+State+University;%F0%9F%92%BC+Previously+at+Cognizant+Technology+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+Healthcare+Portals+%26+RAG+Pipelines+%F0%9F%8F%A5;Shipping+Open-Source+Developer+Tools+%F0%9F%9B%A0%EF%B8%8F;MS+in+CS+%C2%B7+Indiana+State+University+%F0%9F%8E%93;Previously+at+Cognizant+Technology+Solutions+%F0%9F%92%BC;3+Packages+Published+on+PyPI+%F0%9F%93%A6" alt="Typing SVG" /></a>
 
 <br/>
 
